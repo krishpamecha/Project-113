@@ -1,0 +1,10 @@
+body
+{
+  background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 5%, rgba(249,255,0,1) 11%, rgba(255,0,181,1) 20%, rgba(255,0,0,1) 28%, rgba(255,101,23,1) 38%, rgba(255,255,255,1) 45%, rgba(255,255,255,1) 52%, rgba(77,255,5,1) 61%, rgba(5,173,236,1) 67%, rgba(119,255,5,1) 75%, rgba(68,146,3,1) 81%, rgba(87,26,255,1) 89%, rgba(0,0,0,1) 96%);
+}
+
+h3
+{
+  font-size: 30px !important;
+}
